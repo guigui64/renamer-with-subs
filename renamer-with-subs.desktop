@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Renamer With Subs
+Exec=/home/guillaume/git/renamer-with-subs/launch.sh
+Icon=/home/guillaume/git/renamer-with-subs/src/fr/gcomte/renamerwithsubs/rws.png
+Type=Application
